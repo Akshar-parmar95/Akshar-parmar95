@@ -9,30 +9,26 @@ I am [Akshar](https://www.linkedin.com/in/aksharparmar95/), a Cloud DevOps Engin
 I mostly work with Cloud Infrastructure & DevOps 🚀
 
 
-<p float="left">
-  <a href="https://python.org/" target="_blank" >
-    <img src="https://media1.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif"  height="90" />
+<h3>☁️ Cloud Platforms</h3>
+<p align="left">
+
+  <!-- AWS (animated) -->
+  <a href="https://aws.amazon.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/aws.gif" height="75"/>
   </a>
-  <a href="https://www.docker.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/docker.gif"  height="80" /> 
+
+  <!-- Azure (animated style) -->
+  <a href="https://azure.microsoft.com/" target="_blank">
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="75"/>
   </a>
+
+  <!-- Oracle Cloud Infrastructure (static, no animated version available) -->
+  <a href="https://www.oracle.com/cloud/" target="_blank">
+    <img src="https://companieslogo.com/img/orig/ORCL_BIG-70179c78.png?t=1634711912" height="75"/>
+  </a>
+
+</p>
   
-  <a href="https://www.djangoproject.com/" target="_blank" >
-    <img src="https://www.edgica.com/wp-content/files/django-logo-big.jpg"  height="80" /> 
-  </a>
-  
-  <a href="https://docs.gitlab.com/ee/ci/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/cicd.gif"  height="65" />
-  </a>
-  <a href="https://grpc.io/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/grpc.gif"  height="75" />
-  </a>
-  <a href="https://www.w3.org/wiki/The_web_standards_model_-_HTML_CSS_and_JavaScript" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/html-css-js.png" height="70" />
-  </a>
- </p>
-  
-### DevOps
   
 <h3>🛠️ DevOps Tools</h3>
 <p align="left">
@@ -79,9 +75,7 @@ I mostly work with Cloud Infrastructure & DevOps 🚀
 
 
 
-  
-### Monitoring
-  
+    
    <h3>📊 Monitoring Tools</h3>
 <p align="left">
 
