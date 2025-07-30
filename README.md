@@ -21,12 +21,10 @@ I mostly work with Cloud Infrastructure & DevOps 🚀
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" height="70" />
   </a>
 
-  <!-- Oracle Cloud Infrastructure -->
   <a href="https://www.oracle.com/cloud/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Oracle_Cloud_Logo.svg" height="70" />
-  </a>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg" height="70" />
+</a>
 
-</p>
 
   
   
