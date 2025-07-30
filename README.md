@@ -93,15 +93,34 @@ I mostly work with Cloud Infrastructure & DevOps 🚀
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/grafana.gif" height="60" />
   </a>
 
-  <!-- Splunk -->
-  <a href="https://www.splunk.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/68/Splunk_Tshirt_logo.png" height="45" />
+ <h3>📊 Monitoring Tools</h3>
+<p align="left">
+
+  <!-- Prometheus (animated) -->
+  <a href="https://prometheus.io/" target="_blank">
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/prometheus.gif" height="60"/>
   </a>
 
-  <!-- Site24x7 -->
-  <a href="https://www.site24x7.com/" target="_blank">
-    <img src="https://www.site24x7.com/images/logo/site24x7-logo.svg" height="45" />
+  <!-- Grafana (animated) -->
+  <a href="https://grafana.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/grafana.gif" height="60"/>
   </a>
+
+  <!-- Splunk (static logo due to no animated version available) -->
+  <a href="https://www.splunk.com/en_us/observability.html" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Splunk_logo.svg/512px-Splunk_logo.svg.png" height="60"/>
+  </a>
+
+  <!-- AWS CloudWatch (static) -->
+  <a href="https://aws.amazon.com/cloudwatch/" target="_blank">
+    <img src="https://raw.githubusercontent.com/Sandeep-BlackSwan/devops-tools-logos/main/cloudwatch.png" height="60"/>
+  </a>
+
+  <!-- Azure Monitor (static) -->
+  <a href="https://learn.microsoft.com/en-us/azure/azure-monitor/" target="_blank">
+    <img src="https://raw.githubusercontent.com/Sandeep-BlackSwan/devops-tools-logos/main/azure-monitor.png" height="60"/>
+  </a>
+
 </p>
 
  
