@@ -20,12 +20,7 @@ I mostly work with Cloud Infrastructure & DevOps 🚀
   <a href="https://azure.microsoft.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" height="70" />
   </a>
-
-  <!-- Oracle Cloud Infrastructure (Local copy fallback) -->
-  <a href="https://www.oracle.com/cloud/" target="_blank">
-    <img src="https://raw.githubusercontent.com/aksharcloud/images/main/oci-logo.png" height="70" alt="Oracle Cloud Infrastructure Logo" />
-  </a>
-
+  
 </p>
 
 
