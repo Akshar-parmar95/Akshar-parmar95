@@ -66,9 +66,8 @@ I mostly work with Cloud Infrastructure & DevOps 🚀
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Ansible_logo.svg" height="60"/>
   </a>
 
-  <!-- GitHub Actions (static PNG fallback) -->
   <a href="https://github.com/features/actions" target="_blank">
-    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" height="60"/>
+    <img src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" height="65" />
   </a>
 
 
