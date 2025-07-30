@@ -36,26 +36,6 @@ I mostly work with Cloud Infrastructure & DevOps 🚀
   
 <h3>🛠️ DevOps Tools</h3>
 <p align="left">
-  <!-- Prometheus (animated) -->
-  <a href="https://prometheus.io/" target="_blank">
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/prometheus.gif" height="65"/>
-  </a>
-
-  <!-- Grafana (animated) -->
-  <a href="https://grafana.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/grafana.gif" height="65"/>
-  </a>
-
-  <!-- Splunk (static PNG) -->
-  <a href="https://www.splunk.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/68/Splunk_Tshirt_logo.png" height="60"/>
-  </a>
-
-  <!-- Site24x7 (static SVG) -->
-  <a href="https://www.site24x7.com/" target="_blank">
-    <img src="https://www.site24x7.com/images/logo/site24x7-logo.svg" height="60"/>
-  </a>
-
   <!-- Jenkins (static PNG fallback) -->
   <a href="https://www.jenkins.io/" target="_blank">
     <img src="https://www.jenkins.io/images/logos/jenkins/jenkins.png" height="60"/>
