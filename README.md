@@ -39,39 +39,40 @@ I mostly work with Cloud Infrastructure & DevOps 🚀
   <a href="https://www.jenkins.io/" target="_blank">
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/jenkins.gif" height="65" />
   </a>
-  
+
   <a href="https://www.docker.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/docker.gif" height="65" />
   </a>
-  
+
   <a href="https://kubernetes.io/" target="_blank">
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/k8s.gif" height="65" />
   </a>
-  
+
   <a href="https://helm.sh/" target="_blank">
-    <img src="https://avatars.githubusercontent.com/u/6859516?s=200&v=4" height="65" />
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/helm.gif" height="65" />
   </a>
-  
+
   <a href="https://www.terraform.io/" target="_blank">
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/terraform.gif" height="65" />
   </a>
-  
+
   <a href="https://www.ansible.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/ansible.gif" height="65" />
   </a>
-  
+
   <a href="https://github.com/features/actions" target="_blank">
     <img src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" height="65" />
   </a>
-  
+
   <a href="https://argo-cd.readthedocs.io/en/stable/" target="_blank">
     <img src="https://argo-cd.readthedocs.io/en/stable/assets/logo.png" height="65" />
   </a>
-  
+
   <a href="https://azure.microsoft.com/en-in/services/devops/" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/azure-devops.svg" height="65" />
   </a>
 </p>
+
 
 
   
