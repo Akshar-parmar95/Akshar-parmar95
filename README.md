@@ -84,6 +84,11 @@ I mostly work with Cloud Infrastructure & DevOps 🚀
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/grafana.gif" height="60"/>
   </a>
 
+  <!-- Splunk Logo -->
+  <a href="https://www.splunk.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Splunk_logo.svg/512px-Splunk_logo.svg.png" height="60" />
+  </a>
+
 
 
  
