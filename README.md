@@ -85,9 +85,9 @@ I mostly work with Cloud Infrastructure & DevOps 🚀
   </a>
 
   <!-- Splunk Logo -->
-  <a href="https://www.splunk.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Splunk_logo.svg/512px-Splunk_logo.svg.png" height="60" />
-  </a>
+<a href="https://www.splunk.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/aksharparmar/cloud-assets/main/logos/splunk.png" height="60" alt="Splunk Logo" />
+</a>
 
 
 
