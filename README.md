@@ -8,24 +8,26 @@ I am [Akshar](https://www.linkedin.com/in/aksharparmar95/), a Cloud DevOps Engin
 
 I mostly work with Cloud Infrastructure & DevOps 🚀
 
-
 <h3>☁️ Cloud Platforms</h3>
 <p align="left">
-  <!-- AWS (animated) -->
+
+  <!-- AWS -->
   <a href="https://aws.amazon.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/aws.gif" height="70" />
   </a>
 
-  <!-- Microsoft Azure (animated via Lottie GIF asset) -->
+  <!-- Azure -->
   <a href="https://azure.microsoft.com/" target="_blank">
-    <img src="https://assets4.lottiefiles.com/packages/lf20_azure-logo.gif" height="70" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" height="70" />
   </a>
 
-  <!-- Oracle Cloud Infrastructure (static SVG) -->
+  <!-- Oracle Cloud Infrastructure -->
   <a href="https://www.oracle.com/cloud/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/36/Oracle_Cloud_Logo.png" height="70" />
+    <img src="https://logowik.com/content/uploads/images/oracle-cloud-infrastructure3492.jpg" height="70" />
   </a>
+
 </p>
+
 
 
   
