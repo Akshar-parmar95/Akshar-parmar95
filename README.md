@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 <!--
-**Akshar-parmar95/Akshar-Parmar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Akshar-parmar95/Akshar-parmar95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-I am [Akshar](https://www.linkedin.com/in/aksharparmar95/), a Cloud DevOps Engineer from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp; passionate about developing production-ready applications with 8+ years of professional onsite as well as remote working experience. 🎯
+I am [Akshar](https://www.linkedin.com/in/aksharparmar95/), a Cloud DevOps Engineer from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp; passionate about developing production-ready applications with 6+ years of professional onsite experience. 🎯
 
 I mostly work with Cloud Infrastructure & DevOps 🚀
 
