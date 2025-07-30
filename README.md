@@ -43,22 +43,29 @@ I mostly work with Cloud Infrastructure & DevOps 🚀
   </a>
  </p>
   
-### Databases and Monitoring
+### Monitoring
   
-  <a href="https://prometheus.io/" target="_blank" >
+  <p>
+  <a href="https://prometheus.io/" target="_blank">
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/prometheus.gif" height="65" />
   </a>
-  <a href="https://www.influxdata.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/influxdata.gif" height="60" />
-  </a>
-    <a href="https://www.postgresql.org" target="_blank" >
-    <img src="https://www.postgresql.org/media/img/about/press/elephant.png" height="60" />
-  </a>
-  </a>
-    <a href="https://www.mongodb.com/" target="_blank" >
-    <img src="https://www.logolynx.com/images/logolynx/cf/cf72126a3551b816d617a06ffb01388b.png" height="60" />
-  </a>
   
+  <a href="https://grafana.com/" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/grafana.svg" height="60" />
+  </a>
+
+  <a href="https://www.splunk.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Splunk_logo.svg/512px-Splunk_logo.svg.png" height="60" />
+  </a>
+
+  <a href="https://docs.aws.amazon.com/cloudwatch/" target="_blank">
+    <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" height="60" />
+  </a>
+
+  <a href="https://learn.microsoft.com/en-us/azure/azure-monitor/overview" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" height="60" />
+  </a>
 </p>
+
 
 
