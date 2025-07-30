@@ -12,22 +12,23 @@ I mostly work with Cloud Infrastructure & DevOps 🚀
 <h3>☁️ Cloud Platforms</h3>
 <p align="left">
 
-  <!-- AWS (animated) -->
+  <!-- AWS -->
   <a href="https://aws.amazon.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/aws.gif" height="75"/>
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/aws.gif" height="70"/>
   </a>
 
-  <!-- Azure (animated style) -->
+  <!-- Azure -->
   <a href="https://azure.microsoft.com/" target="_blank">
-    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="75"/>
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/azure.gif" height="70"/>
   </a>
 
-  <!-- Oracle Cloud Infrastructure (static, no animated version available) -->
+  <!-- Oracle Cloud Infrastructure -->
   <a href="https://www.oracle.com/cloud/" target="_blank">
-    <img src="https://companieslogo.com/img/orig/ORCL_BIG-70179c78.png?t=1634711912" height="75"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Oracle_Cloud_Logo.png/320px-Oracle_Cloud_Logo.png" height="70"/>
   </a>
 
 </p>
+
   
   
 <h3>🛠️ DevOps Tools</h3>
