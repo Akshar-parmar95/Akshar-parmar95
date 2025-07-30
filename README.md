@@ -45,32 +45,26 @@ I mostly work with Cloud Infrastructure & DevOps 🚀
   
 ### Monitoring
   
-<p>
-  <!-- Prometheus (animated) -->
+<p align="left">
+  <!-- Prometheus -->
   <a href="https://prometheus.io/" target="_blank">
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/prometheus.gif" height="65" />
   </a>
 
-  <!-- Grafana (animated) -->
+  <!-- Grafana -->
   <a href="https://grafana.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/grafana.gif" height="65" />
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/grafana.gif" height="60" />
   </a>
 
-  <!-- Splunk (static logo SVG) -->
+  <!-- Splunk -->
   <a href="https://www.splunk.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Splunk_logo.svg" height="60" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/68/Splunk_Tshirt_logo.png" height="45" />
   </a>
 
-  <!-- AWS CloudWatch -->
-  <a href="https://docs.aws.amazon.com/cloudwatch/" target="_blank">
-    <img src="https://docs.aws.amazon.com/assets/images/cloudwatch/cloudwatch-hero.png" height="60" />
-  </a>
-
-  <!-- Azure Monitor (icon) -->
-  <a href="https://learn.microsoft.com/en-us/azure/azure-monitor/" target="_blank">
-    <img src="https://learn.microsoft.com/en-us/media/logos/logo-azure.svg" height="60" />
+  <!-- Site24x7 -->
+  <a href="https://www.site24x7.com/" target="_blank">
+    <img src="https://www.site24x7.com/images/logo/site24x7-logo.svg" height="45" />
   </a>
 </p>
 
-
-
+ 
