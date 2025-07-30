@@ -36,51 +36,47 @@ I mostly work with Cloud Infrastructure & DevOps 🚀
   
 <h3>🛠️ DevOps Tools</h3>
 <p align="left">
-  <!-- Jenkins (static PNG fallback) -->
+  <!-- Jenkins -->
   <a href="https://www.jenkins.io/" target="_blank">
     <img src="https://www.jenkins.io/images/logos/jenkins/jenkins.png" height="60"/>
   </a>
 
-  <!-- Docker (animated) -->
+  <!-- Docker -->
   <a href="https://www.docker.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/docker.gif" height="60"/>
   </a>
 
-  <!-- Kubernetes (animated) -->
+  <!-- Kubernetes -->
   <a href="https://kubernetes.io/" target="_blank">
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/k8s.gif" height="60"/>
   </a>
 
-  <!-- Helm (animated GIF you liked) -->
+  <!-- Helm -->
   <a href="https://helm.sh/" target="_blank">
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/helm.gif" height="60"/>
   </a>
 
-  <!-- Terraform (animated) -->
+  <!-- Terraform -->
   <a href="https://www.terraform.io/" target="_blank">
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/terraform.gif" height="60"/>
   </a>
 
-  <!-- Ansible (static PNG fallback) -->
+  <!-- Ansible -->
   <a href="https://www.ansible.com/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Ansible_logo.svg" height="60"/>
   </a>
 
-  <!-- GitHub Actions (static PNG fallback) -->
+  <!-- GitHub Actions (original logo restored) -->
   <a href="https://github.com/features/actions" target="_blank">
-    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" height="60"/>
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/ghactions.gif" height="60"/>
   </a>
 
-  <!-- ArgoCD (static PNG) -->
+  <!-- ArgoCD -->
   <a href="https://argo-cd.readthedocs.io/en/stable/" target="_blank">
     <img src="https://argo-cd.readthedocs.io/en/stable/assets/logo.png" height="60"/>
   </a>
-
-  <!-- Azure DevOps (static SVG fallback) -->
-  <a href="https://azure.microsoft.com/en-us/products/devops/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/azure-devops.svg" height="60"/>
-  </a>
 </p>
+
 
 
   
