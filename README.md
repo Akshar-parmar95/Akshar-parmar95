@@ -7,27 +7,25 @@
 I am [Akshar](https://www.linkedin.com/in/aksharparmar95/), a Cloud DevOps Engineer from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp; passionate about developing production-ready applications with 6+ years of professional onsite experience. 🎯
 
 I mostly work with Cloud Infrastructure & DevOps 🚀
-
 <h3>☁️ Cloud Platforms</h3>
 <p align="left">
 
   <!-- AWS -->
   <a href="https://aws.amazon.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/aws.gif" height="40" />
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/aws.gif" height="70" />
   </a>
 
   <!-- Azure -->
   <a href="https://azure.microsoft.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" height="70" />
   </a>
 
-  <!-- Oracle Cloud -->
+  <!-- Oracle Cloud Infrastructure -->
   <a href="https://www.oracle.com/cloud/" target="_blank">
-    <img src="https://seeklogo.com/vector-logo/482283/oracle-cloud" alt="Oracle Cloud" height="40" />
+    <img src="https://raw.githubusercontent.com/AksharCloud/assets/main/oci-logo.png" height="70" />
   </a>
 
 </p>
-
 
   
 <h3>🛠️ DevOps Tools</h3>
