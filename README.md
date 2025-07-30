@@ -46,26 +46,30 @@ I mostly work with Cloud Infrastructure & DevOps 🚀
 ### Monitoring
   
   <p>
+  <!-- Prometheus (animated) -->
   <a href="https://prometheus.io/" target="_blank">
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/prometheus.gif" height="65" />
   </a>
-  
+
+  <!-- Grafana (animated look-alike) -->
   <a href="https://grafana.com/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/grafana.svg" height="60" />
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/grafana.gif" height="65" />
   </a>
 
+  <!-- Splunk (static) -->
   <a href="https://www.splunk.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Splunk_logo.svg/512px-Splunk_logo.svg.png" height="60" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Splunk_logo.svg" height="60" />
   </a>
 
+  <!-- AWS CloudWatch (static) -->
   <a href="https://docs.aws.amazon.com/cloudwatch/" target="_blank">
-    <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" height="60" />
+    <img src="https://raw.githubusercontent.com/aws-samples/aws-modernization-workshop/main/images/CloudWatch.png" height="60" />
   </a>
 
-  <a href="https://learn.microsoft.com/en-us/azure/azure-monitor/overview" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" height="60" />
+  <!-- Azure Monitor (static) -->
+  <a href="https://learn.microsoft.com/en-us/azure/azure-monitor/" target="_blank">
+    <img src="https://learn.microsoft.com/en-us/media/logos/logo-azure.svg" height="60" />
   </a>
 </p>
-
 
 
