@@ -35,44 +35,72 @@ I mostly work with Cloud Infrastructure & DevOps 🚀
 ### DevOps
   
 <h3>🛠️ DevOps Tools</h3>
-<p float="left">
+<p align="left">
+  <!-- Prometheus (animated) -->
+  <a href="https://prometheus.io/" target="_blank">
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/prometheus.gif" height="65"/>
+  </a>
+
+  <!-- Grafana (animated) -->
+  <a href="https://grafana.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/grafana.gif" height="65"/>
+  </a>
+
+  <!-- Splunk (static PNG) -->
+  <a href="https://www.splunk.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/68/Splunk_Tshirt_logo.png" height="60"/>
+  </a>
+
+  <!-- Site24x7 (static SVG) -->
+  <a href="https://www.site24x7.com/" target="_blank">
+    <img src="https://www.site24x7.com/images/logo/site24x7-logo.svg" height="60"/>
+  </a>
+
+  <!-- Jenkins (static PNG fallback) -->
   <a href="https://www.jenkins.io/" target="_blank">
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/jenkins.gif" height="65" />
+    <img src="https://www.jenkins.io/images/logos/jenkins/jenkins.png" height="60"/>
   </a>
 
+  <!-- Docker (animated) -->
   <a href="https://www.docker.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/docker.gif" height="65" />
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/docker.gif" height="60"/>
   </a>
 
+  <!-- Kubernetes (animated) -->
   <a href="https://kubernetes.io/" target="_blank">
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/k8s.gif" height="65" />
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/k8s.gif" height="60"/>
   </a>
 
+  <!-- Helm (animated GIF you liked) -->
   <a href="https://helm.sh/" target="_blank">
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/helm.gif" height="65" />
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/helm.gif" height="60"/>
   </a>
 
+  <!-- Terraform (animated) -->
   <a href="https://www.terraform.io/" target="_blank">
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/terraform.gif" height="65" />
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/terraform.gif" height="60"/>
   </a>
 
+  <!-- Ansible (static PNG fallback) -->
   <a href="https://www.ansible.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/ansible.gif" height="65" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Ansible_logo.svg" height="60"/>
   </a>
 
+  <!-- GitHub Actions (static PNG fallback) -->
   <a href="https://github.com/features/actions" target="_blank">
-    <img src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" height="65" />
+    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" height="60"/>
   </a>
 
+  <!-- ArgoCD (static PNG) -->
   <a href="https://argo-cd.readthedocs.io/en/stable/" target="_blank">
-    <img src="https://argo-cd.readthedocs.io/en/stable/assets/logo.png" height="65" />
+    <img src="https://argo-cd.readthedocs.io/en/stable/assets/logo.png" height="60"/>
   </a>
 
-  <a href="https://azure.microsoft.com/en-in/services/devops/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/azure-devops.svg" height="65" />
+  <!-- Azure DevOps (static SVG fallback) -->
+  <a href="https://azure.microsoft.com/en-us/products/devops/" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/azure-devops.svg" height="60"/>
   </a>
 </p>
-
 
 
   
